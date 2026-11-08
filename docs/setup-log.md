@@ -12,3 +12,13 @@ Docker Compose version v5.7.0
 Python 3.14.4
 git version 2.53.0
 ```
+
+## Python packages (host venv)
+```
+joblib==1.6.0
+matplotlib==3.11.2
+numpy==2.5.4
+pandas==3.1.1
+requests==2.34.2
+scikit-learn==1.9.1
+```
